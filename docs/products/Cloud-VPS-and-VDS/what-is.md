@@ -10,7 +10,7 @@ Contabo offers [Cloud VPS (Virtual Private Server)](https://contabo.com/en/vps/)
 
 Before starting with the differences the common things between a Cloud VPS and VDS are:
 
-* both are virtual machines based on virtualization, i.e. the virutal machines are as isolated as different physical servers ([bare metal servers](https://contabo.com/en/dedicated-servers/))
+* both are virtual machines based on virtualization, i.e. the virtual machines are as isolated as different physical servers ([bare metal servers](https://contabo.com/en/dedicated-servers/))
 * both are root servers having complete administrative control over the Operating System
 * many virtual machines may run on a single physical server ([bare metal server](https://contabo.com/en/dedicated-servers/))
 
